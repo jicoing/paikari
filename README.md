@@ -1,4 +1,4 @@
-# Paikari India
+# Paikari 
 
 Paikari India is a web-based application designed to provide users with real-time grocery price comparisons across the top 5 cities in India. Users can search for specific grocery items and instantly view the current prices in cities like Mumbai, Delhi, Bangalore, Chennai, and Kolkata. Bengali: পাইকারি (paikari) translates to "wholesale" in English
 
