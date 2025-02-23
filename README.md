@@ -48,3 +48,4 @@ npm run dev
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+The displayed data is sourced from the [data.gov.in](https://data.gov.in) open-source platform. Human errors can occasionally occur at source, which means that the displayed prices may sometimes be inaccurate.
